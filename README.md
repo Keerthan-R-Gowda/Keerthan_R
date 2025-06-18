@@ -1,5 +1,9 @@
 # Keerthan_R
 Portfolio of Keerthan Gowda – Technical Writer &amp; Content Specialist
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Keerthan%20Gowda&fontSize=40&fontColor=ffffff" />
+</p>
+
 # 👋 Hi, I’m Keerthan Gowda
 
 ### 🧑‍💻 Technical Writer | Content Specialist | Digital Storyteller
@@ -39,7 +43,7 @@ I'm a detail-oriented and user-focused content professional with 2+ years of exp
 ## 📫 Contact
 
 📧 keerthangowda26@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/keerthan-r-gowda)  
+🔗 [LinkedIn](linkedin.com/in/keerthan-gowda-0b113525a)  
 🌐 [Portfolio Website](https://keerthan-r-gowda.github.io/Keerthan_R/)
 
 ---
