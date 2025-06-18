@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Keerthan%20Gowda&fontSize=40&fontColor=ffffff" />
 </p>
-theme: jekyll-theme-hacker
 
 # 👋 Hi, I’m Keerthan R Gowda
 
