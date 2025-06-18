@@ -1,11 +1,12 @@
 # Keerthan_R
-Portfolio of Keerthan Gowda – Technical Writer &amp; Content Specialist
+ Technical Writer &amp; Web Content Specialist
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Keerthan%20Gowda&fontSize=40&fontColor=ffffff" />
 </p>
+theme: jekyll-theme-hacker
 
-# 👋 Hi, I’m Keerthan Gowda
+# 👋 Hi, I’m Keerthan R Gowda
 
 ### 🧑‍💻 Technical Writer | Content Specialist | Digital Storyteller
 
