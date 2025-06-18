@@ -1,5 +1,6 @@
 # Keerthan_R
 Portfolio of Keerthan Gowda – Technical Writer &amp; Content Specialist
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Keerthan%20Gowda&fontSize=40&fontColor=ffffff" />
 </p>
