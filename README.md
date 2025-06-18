@@ -53,7 +53,7 @@ I'm a detail-oriented and user-focused content professional with 2+ years of exp
 
 ## 📫 Contact
 
-📧 **Email:** <a href="mailto:keerthangowda26@gmail.com">keerthangowda26@gmail.com</a></p>
+📧 **Email:** <a href="mailto:keerthangowda26@gmail.com">keerthangowda26@gmail.com</a>
 🔗 **LinkedIn:** [linkedin.com/in/keerthan-gowda-0b113525a](https://www.linkedin.com/in/keerthan-gowda-0b113525a/)  
 🌐 **Portfolio Website:** [keerthan-r-gowda.github.io/Keerthan_R](https://keerthan-r-gowda.github.io/Keerthan_R/)
 
