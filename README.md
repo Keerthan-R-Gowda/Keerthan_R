@@ -22,6 +22,67 @@ I'm a detail-oriented and user-focused content professional with 2+ years of exp
 - 📘 E-learning material development  
 
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Professional Experience – Keerthan Gowda</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: 'Segoe UI', sans-serif;
+      padding: 2rem;
+      line-height: 1.6;
+    }
+    a {
+      color: #00ffe7;
+      text-decoration: none;
+    }
+    h1, h2 {
+      color: #00ffe7;
+    }
+  </style>
+</head>
+<body>
+  <h1>👨‍💼 Professional Experience</h1>
+
+  <h2>Content Specialist – TTI / Mouser Electronics</h2>
+  <p><strong>Duration:</strong> Jan 2024 – Present</p>
+  <ul>
+    <li>Created and updated 150+ landing pages and microsites using CMS and AEM.</li>
+    <li>Collaborated with product, design, and marketing teams to ensure consistent branding.</li>
+    <li>Managed homepage features and product spotlights for visibility and SEO performance.</li>
+    <li>Maintained content accuracy, formatting, and QA compliance across all product listings.</li>
+  </ul>
+
+  <h2>Faculty Content Specialist – Think & Learn Pvt. Ltd.</h2>
+  <p><strong>Duration:</strong> Jul 2022 – Dec 2023</p>
+  <ul>
+    <li>Created academic content modules, storyboards, and learning scripts for K–12 platforms.</li>
+    <li>Worked with SMEs and design teams to convert concepts into visual-rich educational formats.</li>
+    <li>Designed assessments, quizzes, and concept checks tailored for student engagement.</li>
+  </ul>
+
+  <h2>Management Intern – Hindustan Aeronautics Limited</h2>
+  <p><strong>Duration:</strong> 2022</p>
+  <ul>
+    <li>Assisted in aerospace component design analysis and supported documentation activities.</li>
+    <li>Worked with engineering teams for process alignment and efficiency improvements.</li>
+  </ul>
+
+  <h2>Design Intern – DRDO</h2>
+  <p><strong>Duration:</strong> 2021</p>
+  <ul>
+    <li>Contributed to technical reporting and testing of defense systems.</li>
+    <li>Prepared documentation and draft presentations for internal reviews.</li>
+  </ul>
+
+  <br/>
+  <a href="index.html">← Back to Home</a>
+</body>
+</html>
 
 ## 📂 Featured Projects
 
