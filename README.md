@@ -22,7 +22,6 @@ I'm a detail-oriented and user-focused content professional with 2+ years of exp
 - 📘 E-learning material development  
 
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
